@@ -1,0 +1,27 @@
+INSTALL
+Created Wed Sep 25 16:05:11 AKDT 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Installation of dvd::rip on Debian wheezy 7.1
+
+
+Packages
+========
+dvdrip - perl front end for transcode and ffmpeg
+dvdrip-doc - Documentation for dvd::rip
+dvdrip-queue - queue up dvd::rip projects
+lxdvdrip - Command line tool to make a copy from a video DVD for private use.
+
+Standard installation using aptitude:
+
+# aptitude install dvdrip
+
+
+To run as root created:
+/root/dvdrip-data/
+
+Run with:
+# dvdrip
+
+Runs dvd::rip 0.98.11
