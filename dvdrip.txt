@@ -1,0 +1,20 @@
+dvdrip.txt
+Created Wed Sep 25 16:02:52 AKDT 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+dvd::rip is a full featured DVD copy program written in Perl.  It provides an
+easy to use but feature-rich Gtk+ GUI to control almost all aspects of the
+ripping and transcoding process.  It uses the widely known video processing
+swissknife transcode and many other Open Source tools.  dvd::rip itself is
+licensed under GPL / Perl Artistic License.
+
+"And note: it's spelt dvd::rip, and nothing else." 
+
+edit1.org/
+
+Links
+=====
+dvd::rip
+http://www.exit1.org/dvdrip/
+
